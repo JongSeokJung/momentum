@@ -116,7 +116,6 @@ img {
 }
 
 #todo-list li {
-  border-style: dashed;
   border-color: white;
   border-radius: 8px;
   background-color: transparent;
@@ -133,18 +132,6 @@ img {
   font-size: 42px;
   text-shadow: 3px 2px rgb(0 0 0 / 30%);
 }
-
-/* #quote {
-  position: absolute;
-  left: 50%;
-  top: 90%;
-  transform: translate(-50%);
-  color: #fff;
-  font-size: 20px;
-  text-shadow: 2px 2px rgb(0 0 0 / 50%);
-  text-align: center;
-  width: 700px;
-} */
 
 #quote {
   font-weight: 600;
